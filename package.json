@@ -16,7 +16,7 @@
   "author": "Seher Mahmud",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^22.1.4",
+    "jest": "^29.3.1",
     "nodemon": "^1.14.12"
   },
   "dependencies": {
